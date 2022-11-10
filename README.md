@@ -49,6 +49,29 @@ Interested parties:
 
 ### Content Services
 
+**Alfresco Search Services features for OOTBee Support Tools**
+
+Idea owner: Angel Borroy
+
+Description: Alfresco Search Services includes a set of *trackers* to index different elements from Alfresco Repository:
+
+* Document Metadata is indexed by *MetadataTracker*
+* Document Content is indexed by *ContentTracker*
+* Document Path is indexed by *CascadeTracker*
+* Document Permission is indexed by *AclTracker*
+
+Since Alfresco out-of-the-box metrics don't provide enough detail on the progress of each *tracker*, this project aims to add a new option to [OOTBee Support Tools](https://github.com/OrderOfTheBee/ootbee-support-tools) to get and display the estimated progress of each *tracker*. Additional operations on SOLR Index may be also added.
+
+Prep work: 
+
+* [How many PATHS remain to be indexed?](https://hub.alfresco.com/t5/alfresco-content-services-blog/how-many-paths-remain-to-be-indexed/ba-p/314158)
+* [Removing latest transactions from Alfresco Search Services](https://hub.alfresco.com/t5/alfresco-content-services-blog/removing-latest-transactions-from-alfresco-search-services/ba-p/312909)
+* [How many CONTENT remains to be indexed?](https://hub.alfresco.com/t5/alfresco-content-services-blog/how-many-content-remains-to-be-indexed/ba-p/312459)
+* [How to track the progress of the indexing process in Alfresco SOLR](https://hub.alfresco.com/t5/alfresco-content-services-blog/how-to-track-the-progress-of-the-indexing-process-in-alfresco/ba-p/301444)
+
+Interested parties:
+
+* [Put your name here]
 
 ### Process Services
 
