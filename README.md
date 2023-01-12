@@ -1,8 +1,8 @@
 # Hyland DevCon Hack-a-thon 2023
 
-Hyland DevCon 2023 is the international technical event specially tailored for developers using or evaluating Hyland’s Alfresco and Nuxeo platforms. Additional details can be found in [Hyland DevCon 2023](https://web.cvent.com/event/c03ce216-9281-4a36-9c57-fb896e67abc1/summary) website.
+Hyland DevCon 2023 is the international technical event specially tailored for developers using or evaluating Hyland’s Alfresco and Nuxeo platforms.
 
-During the first day of the event (January 24, 2023), an in person Hack-a-thon will be running in the venue. This project includes some instructions and a list of project ideas. It's not required to register your idea previously to participate the Hack-a-thon, but this list may help developers searching a project to join.
+During the first day of the event, an in person Hack-a-thon will be running in the venue. This project includes some instructions and a list of project ideas. It's not required to register your idea previously to participate the Hack-a-thon, but this list may help developers searching a project to join.
 
 ## Instructions
 
