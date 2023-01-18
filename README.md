@@ -38,7 +38,10 @@ Idea owner: Angel Borroy
 
 Description: The aim of this project is to test Alfresco SDK and Alfresco Docker Images with Apple Silicon computers.
 
-Prep work: Get an Apple Silicon computer!
+Prep work: 
+
+* Get an Apple Silicon computer!
+* https://github.com/aborroy/alfresco-dockerx-builder
 
 Interested parties:
 
