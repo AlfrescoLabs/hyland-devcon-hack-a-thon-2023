@@ -76,6 +76,8 @@ Interested parties:
 
 * [Put your name here]
 
+Some of this features has been added in this [PR](https://github.com/OrderOfTheBee/ootbee-support-tools/pull/206)
+
 ### Process Services
 
 ### Nuxeo
